@@ -2,4 +2,6 @@
 
 ## Team
 
-- Fariha
+* Fariha
+* QimiaoDing
+
