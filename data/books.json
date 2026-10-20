@@ -1,0 +1,10 @@
+[
+  { "id": 1, "title": "The Quiet Harbour", "author": "Elena Marsh", "price": 8.99, "stock": 12, "genre": "Fiction" },
+  { "id": 2, "title": "Learning to Ship", "author": "Tom Okafor", "price": 24.50, "stock": 5, "genre": "Technology" },
+  { "id": 3, "title": "A Year of Small Gardens", "author": "Priya Nair", "price": 14.00, "stock": 0, "genre": "Home and Garden" },
+  { "id": 4, "title": "Night Train to Leeds", "author": "Daniel Firth", "price": 9.99, "stock": 20, "genre": "Crime" },
+  { "id": 5, "title": "The Data We Keep", "author": "Hannah Cole", "price": 19.99, "stock": 7, "genre": "Technology" },
+  { "id": 6, "title": "Cooking on a Budget", "author": "Sam Reyes", "price": 12.49, "stock": 15, "genre": "Food" },
+  { "id": 7, "title": "Maps of the North", "author": "Iain Duncan", "price": 17.25, "stock": 3, "genre": "Travel" },
+  { "id": 8, "title": "Stars Over Newcastle", "author": "Grace Liddell", "price": 7.99, "stock": 9, "genre": "Fiction" }
+]

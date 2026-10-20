@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meridian Books</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Meridian Books</h1>
+    <p>Independent books, delivered.</p>
+  </header>
+
+  <main>
+    <section aria-labelledby="offer">
+      <h2 id="offer">Multi-buy offer</h2>
+      <p>Buy 3 or more books and get 10% off your order.</p>
+    </section>
+
+    <section aria-labelledby="catalogue">
+      <h2 id="catalogue">Our books</h2>
+      <label for="genre">Filter by genre</label>
+      <select id="genre">
+        <option value="">All genres</option>
+      </select>
+      <ul id="books" class="books"></ul>
+    </section>
+
+    <section aria-labelledby="basket-heading">
+      <h2 id="basket-heading">Your basket</h2>
+      <ul id="basket"></ul>
+      <p id="summary">Your basket is empty.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Meridian Books · Starter application for LD6049 DevOps Principles</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
