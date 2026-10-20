@@ -16,4 +16,4 @@ jobs:
           cache: npm
       - run: npm ci
       - name: Check the app loads
-        run: node -e "require('./src/app.js')"
+        run: exit 1
