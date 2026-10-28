@@ -4,7 +4,7 @@ const books = require('../data/books.json');
 const basket = require('./basket');
 const config = require('./config');
 
-const app = express();
+const app = express(;
 app.use(express.json());
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
